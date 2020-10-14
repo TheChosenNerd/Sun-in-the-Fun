@@ -1,0 +1,38 @@
+* {
+	background-color: steelblue;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1.heading {
+	text-align: center;
+	color: darkcyan;
+	background-color: cyan;
+	border-style: solid;
+	border-color:  yellow;
+}
+
+#picture {
+	border-style: solid;
+	border-color: yellow;
+}
+
+button.buttons {
+	color: darkblue;
+	background-color: skyblue;
+}
+
+#list1head {
+	color: cyan;
+}
+
+li.list1 {
+	color: cyan;
+}
+
+#list2head {
+	color: cyan;
+}
+
+li.list2 {
+	color: cyan;
+}
